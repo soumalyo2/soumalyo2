@@ -1,4 +1,4 @@
-<!--
+
 # 💫 About Me:
 ### Hi there, I'm Soumalyo Ghosh 👋<br><br>I'm a B.Tech Computer Science and Engineering student passionate about  database architecture, and building highly engaging web experiences. <br><br>- 🔭 **I’m currently working on:** **UrbanMart**, a comprehensive e-commerce ecosystem featuring retail, travel, and a custom payment app (UrbanPay).<br>- 🌱 **I’m currently learning & applying:** Advanced algorithms , DBMS (SQL optimization, relational algebra), and modern frontend animations (GSAP, AOS).<br>- 🎨 **Recent experiments:** Replicating complex UI/UX designs.<br>- 👯 **I’m looking to collaborate on:** Open-source web development projects, UI/UX engineering, or competitive programming challenges.<br>- 📫 **How to reach me:** ghoshsoumalyo@gmail.com
 
@@ -9,9 +9,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=soumalyo2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Soumalyo%20Ghosh&fontSize=46&fontColor=39FF14&animation=fadeIn&fontAlignY=36" width="100%" />
@@ -83,6 +83,7 @@
 <img src="https://streak-stats.demolab.com/?user=soumalyo2&theme=radical&hide_border=true" width="90%" />
 
 </div>
+-->
 
 <div align="center">
 
