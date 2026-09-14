@@ -1,4 +1,4 @@
-
+<!--
 # 💫 About Me:
 ### Hi there, I'm Soumalyo Ghosh 👋<br><br>I'm a B.Tech Computer Science and Engineering student passionate about  database architecture, and building highly engaging web experiences. <br><br>- 🔭 **I’m currently working on:** **UrbanMart**, a comprehensive e-commerce ecosystem featuring retail, travel, and a custom payment app (UrbanPay).<br>- 🌱 **I’m currently learning & applying:** Advanced algorithms , DBMS (SQL optimization, relational algebra), and modern frontend animations (GSAP, AOS).<br>- 🎨 **Recent experiments:** Replicating complex UI/UX designs.<br>- 👯 **I’m looking to collaborate on:** Open-source web development projects, UI/UX engineering, or competitive programming challenges.<br>- 📫 **How to reach me:** ghoshsoumalyo@gmail.com
 
@@ -9,6 +9,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=soumalyo2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+-->
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
@@ -84,11 +87,73 @@
 
 </div>
 -->
+<!--
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380">
 
 <sub>Thanks for stopping by — always happy to talk code, design, or the next side project.</sub>
+
+</div>
+
+-->
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Welcome%20to%20YOUR_NAME's%20Github&fontSize=35&fontColor=FFFFFF&desc=%3C%2F%3E&descAlignY=65&animation=fadeIn" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/YOUR_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/YOUR_HANDLE)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0D1117?style=for-the-badge&logo=pinterest&logoColor=E60023)](https://pinterest.com/YOUR_HANDLE)
+[![Chess.com](https://img.shields.io/badge/Chess.com-0D1117?style=for-the-badge&logo=chessdotcom&logoColor=81B64C)](https://www.chess.com/member/YOUR_HANDLE)
+
+</div>
+
+## 📌 About me
+
+Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning new
+technologies and problem solving at YOUR_PLATFORMS. Right now I'm working on
+SOME_LITTLE_AND_FUN_PROJECTS to put in practice my knowledge about JavaScript,
+React, Bootstrap, and more.
+
+- 🎓 Studying at YOUR_UNIVERSITY
+- 👨‍🏫 Private tutor in YOUR_SUBJECT
+- 🏆 Competitor in ICPC (2025)
+- ♟️ Chess player
+
+## 🛠 Technologies
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<br/>
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## 📊 Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&custom_title=YOUR_NAME's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B949E&cache_seconds=86400"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&line=8B949E&point=FFFFFF&area=true&area_color=8B949E&custom_title=YOUR_NAME's%20Contribution%20Graph" width="100%"/>
 
 </div>
