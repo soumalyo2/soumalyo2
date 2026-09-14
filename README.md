@@ -99,61 +99,65 @@
 
 -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Welcome%20to%20YOUR_NAME's%20Github&fontSize=35&fontColor=FFFFFF&desc=%3C%2F%3E&descAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Welcome%20to%20YOUR_NAME's%20Github&fontSize=35&fontColor=FFFFFF&desc=%3C%2F%3E&descAlignY=65&animation=fadeIn" width="100%"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/YOUR_HANDLE)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/YOUR_HANDLE)
-[![Pinterest](https://img.shields.io/badge/Pinterest-0D1117?style=for-the-badge&logo=pinterest&logoColor=E60023)](https://pinterest.com/YOUR_HANDLE)
-[![Chess.com](https://img.shields.io/badge/Chess.com-0D1117?style=for-the-badge&logo=chessdotcom&logoColor=81B64C)](https://www.chess.com/member/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Codeforces](https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
+[![Pinterest](https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/YOUR_HANDLE)
+[![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white)](https://www.chess.com/member/YOUR_HANDLE)
 
 </div>
 
-## 📌 About me
+### 📌 About me
 
-Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning new
-technologies and problem solving at YOUR_PLATFORMS. Right now I'm working on
-SOME_LITTLE_AND_FUN_PROJECTS to put in practice my knowledge about JavaScript,
-React, Bootstrap, and more.
+Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning new technologies and problem solving at YOUR_PLATFORMS. Right now I'm working on some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap, and more.
 
 - 🎓 Studying at YOUR_UNIVERSITY
 - 👨‍🏫 Private tutor in YOUR_SUBJECT
 - 🏆 Competitor in ICPC (2025)
 - ♟️ Chess player
 
-## 🛠 Technologies
+### 🛠 Technologies
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br/>
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Ruby](https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-## 📊 Statistics
+### 📊 Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&custom_title=YOUR_NAME's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=8B949E&cache_seconds=86400"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=8B949E&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E"/>
+**YOUR_NAME's GitHub Stats**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&line=8B949E&point=FFFFFF&area=true&area_color=8B949E&custom_title=YOUR_NAME's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=transparent&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&hide_border=true" height="180em"/>
+
+<br/><br/>
+
+**YOUR_NAME's Contribution Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=8B949E&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=YOUR_NAME's%20Contribution%20Graph" width="100%"/>
 
 </div>
