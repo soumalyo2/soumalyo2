@@ -1,4 +1,4 @@
-<!--
+
 # 💫 About Me:
 ### Hi there, I'm Soumalyo Ghosh 👋<br><br>I'm a B.Tech Computer Science and Engineering student passionate about  database architecture, and building highly engaging web experiences. <br><br>- 🔭 **I’m currently working on:** **UrbanMart**, a comprehensive e-commerce ecosystem featuring retail, travel, and a custom payment app (UrbanPay).<br>- 🌱 **I’m currently learning & applying:** Advanced algorithms , DBMS (SQL optimization, relational algebra), and modern frontend animations (GSAP, AOS).<br>- 🎨 **Recent experiments:** Replicating complex UI/UX designs.<br>- 👯 **I’m looking to collaborate on:** Open-source web development projects, UI/UX engineering, or competitive programming challenges.<br>- 📫 **How to reach me:** ghoshsoumalyo@gmail.com
 
@@ -9,7 +9,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=soumalyo2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
 
 
 
@@ -98,7 +97,7 @@
 </div>
 
 -->
-
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=180&section=header&text=Welcome%20to%20YOUR_NAME's%20Github&fontSize=35&fontColor=FFFFFF&desc=%3C%2F%3E&descAlignY=65&animation=fadeIn" width="100%"/>
 </div>
@@ -161,3 +160,4 @@ Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=8B949E&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=YOUR_NAME's%20Contribution%20Graph" width="100%"/>
 
 </div>
+-->
