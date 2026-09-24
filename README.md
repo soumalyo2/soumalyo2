@@ -308,8 +308,6 @@ A full-featured blogging platform focused on authentication, user profiles, and 
 
 ## 📈 Contribution Graph
 
-## 📈 Contribution Graph
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumalyo2&theme=dark&hide_border=true" width="100%"/>
