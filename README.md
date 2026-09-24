@@ -308,11 +308,14 @@ A full-featured blogging platform focused on authentication, user profiles, and 
 
 ## 📈 Contribution Graph
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumalyo2&bg_color=0D1117&color=8B949E&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Soumalyo's%20Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumalyo2&theme=dark&hide_border=true" width="100%"/>
 
 </div>
+
 
 ---
 
