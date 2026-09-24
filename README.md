@@ -1,4 +1,4 @@
-
+<!--
 # 💫 About Me:
 ### Hi there, I'm Soumalyo Ghosh 👋<br><br>I'm a B.Tech Computer Science and Engineering student passionate about  database architecture, and building highly engaging web experiences. <br><br>- 🔭 **I’m currently working on:** **UrbanMart**, a comprehensive e-commerce ecosystem featuring retail, travel, and a custom payment app (UrbanPay).<br>- 🌱 **I’m currently learning & applying:** Advanced algorithms , DBMS (SQL optimization, relational algebra), and modern frontend animations (GSAP, AOS).<br>- 🎨 **Recent experiments:** Replicating complex UI/UX designs.<br>- 👯 **I’m looking to collaborate on:** Open-source web development projects, UI/UX engineering, or competitive programming challenges.<br>- 📫 **How to reach me:** ghoshsoumalyo@gmail.com
 
@@ -10,7 +10,7 @@
 ![](https://streak-stats.demolab.com/?user=soumalyo2&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soumalyo2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
@@ -161,3 +161,201 @@ Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning 
 
 </div>
 -->
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Soumalyo%20Ghosh&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/soumalyo2">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/soumalyo-ghosh-246648339/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 👋 Hi, I'm Soumalyo!
+
+**B.Tech Computer Science & Engineering student**
+**Full-Stack Web Developer | Python & Flask | MySQL**
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science undergraduate at **Swami Vivekananda University**, currently pursuing my B.Tech in Computer Science & Engineering.
+
+I enjoy building full-stack web applications, designing responsive interfaces, working with databases, and turning ideas into functional products.
+
+* 🎓 B.Tech in Computer Science & Engineering — **2024–2028**
+* 💻 Interested in **Full-Stack Web Development**
+* 🐍 Working with **Python & Flask**
+* 🗄️ Experienced with **MySQL & SQLAlchemy**
+* 🎨 Interested in **UI/UX and responsive web design**
+* ♟️ Chess enthusiast
+* 🎵 Music lover
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+<img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+</p>
+
+### 🎨 Design & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Online Shopping System
+
+**Flask · Python · MySQL · Bootstrap**
+
+A full-stack e-commerce platform combining a retail storefront, travel-booking functionality, and a simulated payment flow.
+
+**Highlights:**
+
+* 🛍️ E-commerce storefront
+* ✈️ Travel destination features
+* 💳 Simulated payment flow
+* 🗄️ Normalized MySQL database design
+* ⚡ Optimized database queries
+* 👤 User and inventory management
+
+---
+
+### 📝 User Blog Website
+
+**Flask · Python · SQLAlchemy · MySQL**
+
+A full-featured blogging platform focused on authentication, user profiles, and content management.
+
+**Highlights:**
+
+* 🔐 User authentication
+* 👤 Profile management
+* ✍️ Full CRUD functionality
+* 🗄️ SQLAlchemy relational database management
+* 🧩 Flask Blueprints
+* 🏗️ Modular application structure
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soumalyo2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com/?user=soumalyo2&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumalyo2&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumalyo2&bg_color=0D1117&color=8B949E&title_color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Soumalyo's%20Contribution%20Graph" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+```text
+🎓 Studying        → B.Tech CSE
+💻 Building        → Full-Stack Web Applications
+🐍 Backend         → Python + Flask
+🗄️ Database        → MySQL + SQLAlchemy
+🎨 Frontend        → HTML + CSS + JavaScript + Bootstrap
+📚 Learning        → Software Engineering & Web Technologies
+♟️ Hobbies         → Chess & Music
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/soumalyo2">
+<img src="https://img.shields.io/badge/GitHub-soumalyo2-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://www.linkedin.com/in/soumalyo-ghosh-246648339/">
+<img src="https://img.shields.io/badge/LinkedIn-Soumalyo%20Ghosh-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=soumalyo2&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
+
+</div>
