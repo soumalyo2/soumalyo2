@@ -517,13 +517,13 @@ A full-featured blogging platform with authentication, user profiles and complet
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=144552" width="100%"/>
 </div>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3a4b,50:161B22,100:0D1117&height=120&section=footer"/>
 
 </div>
