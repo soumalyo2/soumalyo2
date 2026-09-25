@@ -162,7 +162,7 @@ Hello there! I'm **YOUR_NAME**, a Systems Engineering student. I enjoy learning 
 </div>
 -->
 
-
+<!--
 
 <div align="center">
 
@@ -352,6 +352,173 @@ A full-featured blogging platform focused on authentication, user profiles, and 
 ### 💬 Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=soumalyo2&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS"/>
+
+
+-->
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d1117&text=Soumalyo%20Ghosh&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descSize=16" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/soumalyo2">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/soumalyo-ghosh-246648339">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+## `> About Me`
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+applications;Python+%7C+Flask+%7C+MySQL;Designing+responsive+and+animated+UIs;Always+learning+%26+building" alt="Typing animation"/>
+</p>
+
+I'm a **Computer Science undergraduate** currently in my 5th semester at **Swami Vivekananda University**. I enjoy building full-stack web applications with Python and Flask, designing relational databases, and creating responsive interfaces with modern front-end tools.
+
+I'm especially interested in turning ideas into practical web products — from database schema design and REST APIs to polished, animated user interfaces.
+
+---
+
+## `> Technologies`
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,c,php" alt="Programming languages"/>
+
+### Web & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,flask" alt="Web technologies"/>
+
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma" alt="Database and tools"/>
+
+### Animation
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=111111" alt="GSAP"/>
+<img src="https://img.shields.io/badge/AOS-111111?style=for-the-badge" alt="AOS"/>
+
+</div>
+
+---
+
+## `> Featured Projects`
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🛒 Online Shopping System
+
+**Flask · Python · MySQL · Bootstrap**
+
+An e-commerce web application combining a retail storefront, travel-destination features and simulated payment functionality.
+
+**Highlights**
+- Normalized MySQL database schemas
+- Optimized SQL queries
+- Inventory and user management
+- Responsive web interface
+
+</td>
+<td width="50%">
+
+### ✍️ User Blog Website
+
+**Flask · Python · SQLAlchemy · MySQL**
+
+A full-featured blogging platform with authentication, user profiles and complete CRUD functionality.
+
+**Highlights**
+- Secure user authentication
+- Profile management
+- Create / read / update / delete posts
+- Flask Blueprints
+- SQLAlchemy relational database layer
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> GitHub Statistics`
+
+<div align="center">
+
+<a href="https://github.com/soumalyo2">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=soumalyo2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="Soumalyo's GitHub stats"/>
+</a>
+<a href="https://github.com/soumalyo2">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumalyo2&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/soumalyo2">
+<img src="https://streak-stats.demolab.com?user=soumalyo2&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+---
+
+## `> Contribution Activity`
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/soumalyo2/soumalyo2/activity-assets/activity-365d.svg" alt="Soumalyo's GitHub contribution activity over the last 365 days" width="100%"/>
+</p>
+
+<p align="center">
+<sub>Automatically updated by GitHub Actions.</sub>
+</p>
+
+---
+
+## `> Currently`
+
+```text
+🎓  B.Tech in Computer Science Engineering
+🏫  Swami Vivekananda University
+💻  Building full-stack applications with Flask
+🗄️  Working with MySQL & SQLAlchemy
+🎨  Exploring responsive UI & web animation
+♟️  Chess
+🎵  Music
+```
+
+---
+
+## `> Connect`
+
+<div align="center">
+
+<a href="https://github.com/soumalyo2">
+<img src="https://img.shields.io/badge/GitHub-soumalyo2-0d1117?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/soumalyo-ghosh-246648339">
+<img src="https://img.shields.io/badge/LinkedIn-Soumalyo%20Ghosh-0d1117?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=soumalyo2&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0d1117" width="100%"/>
+</div>
 
 </div>
 
